@@ -24,19 +24,19 @@
 
 * Enieber Cunha
   
-  Desenvolvedor Front-end na MBoss - [Twiter](https://twitter.com/enieber) -  [linkedin](https://br.linkedin.com/in/enieber-cunha-91ab72a6)
+	Desenvolvedor Front-end na MBoss - [Twiter](https://twitter.com/enieber) -  [linkedin](https://br.linkedin.com/in/enieber-cunha-91ab72a6)
 
-  * Mateus Caruccio
+* Mateus Caruccio
       
-      Desenvolvedor e Fundador da GetupCloud - [Twiter](https://twitter.com/MateusCaruccio) -  [linkedin](https://br.linkedin.com/in/mateus-caruccio-55a15113)
+	Desenvolvedor e Fundador da GetupCloud - [Twiter](https://twitter.com/MateusCaruccio) -  [linkedin](https://br.linkedin.com/in/mateus-caruccio-55a15113)
 
 
-      * Daniel Romero
+* Daniel Romero
           
-	  Hacker and Full Stack developer - [Twiter](https://twitter.com/infoslack) - [linkedin](https://www.linkedin.com/in/infoslack)
+	Hacker and Full Stack developer - [Twiter](https://twitter.com/infoslack) - [linkedin](https://www.linkedin.com/in/infoslack)
 
 
-	   **Gullit Miranda**
-	    
-	    Software Engineer na Azuki (azukiapp.com) - [Twiter](https://twitter.com/GullitMiranda) - [linkedin](https://www.linkedin.com/in/gullitmiranda)
+* Gullit Miranda
+	
+	Software Engineer na Azuki (azukiapp.com) - [Twiter](https://twitter.com/GullitMiranda) - [linkedin](https://www.linkedin.com/in/gullitmiranda)
 
