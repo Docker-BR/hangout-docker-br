@@ -13,9 +13,9 @@
 ##Pauta
 
 * **O que é docker**
-* **seus Funcdamentos**
+* **Seus fundamentos**
 * **Onde usar**
-* **Boas Praticas de como usar**
+* **Boas práticas**
 * **Ferramentas**
 * **Como Contribuir**
 
