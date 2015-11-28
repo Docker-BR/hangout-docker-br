@@ -40,3 +40,9 @@
 	
 	Software Engineer na Azuki (azukiapp.com) - [Twiter](https://twitter.com/GullitMiranda) - [linkedin](https://www.linkedin.com/in/gullitmiranda)
 
+
+##Comunidade
+
+**Comunidade Docker-BR no Slack:** http://docker-br.herokuapp.com/
+
+**Comunidade Docker-BR no Telegran:** https://telegram.me/joinchat/BnkDtgGdwERZdRw1NvGBBw
