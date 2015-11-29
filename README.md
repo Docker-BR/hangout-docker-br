@@ -45,4 +45,4 @@
 
 **Comunidade Docker-BR no Slack:** http://docker-br.herokuapp.com/
 
-**Comunidade Docker-BR no Telegran:** https://telegram.me/joinchat/BnkDtgGdwERZdRw1NvGBBw
+**Comunidade Docker-BR no Telegram:** https://telegram.me/joinchat/BnkDtgGdwERZdRw1NvGBBw
