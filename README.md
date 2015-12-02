@@ -8,7 +8,7 @@
 
 ###Link do Hangout
 
-[Docker Docker Docker](https://youtu.be/72pooknNLkA)
+[#1 Docker-BR hangout](https://plus.google.com/events/cfjl8egt0au1jr2arc6lh8377qc)
 
 ##Pauta
 
